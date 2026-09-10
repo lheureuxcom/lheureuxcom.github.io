@@ -27,3 +27,10 @@ V5 moves Lheureux from a conceptual maison into a much more realistic commerce-r
 The current images remain licensed editorial reference photography and are not represented as final Lheureux product photography.
 Material, stone, certification, shipping and return claims are intentionally not invented.
 Live card payment processing is not connected yet.
+
+## V6 market-reference upgrade
+- Adds a public Reference Edit page with selected real Blue Nile products.
+- Uses only factual product names, specifications, prices, and direct source links.
+- Blue Nile items are clearly identified as external references, not Lheureux inventory.
+- Blue Nile product photography and marketing copy are not copied.
+- Existing Lheureux Shop and three Lheureux-priced preview items remain separate.

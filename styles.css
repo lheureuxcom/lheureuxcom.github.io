@@ -187,3 +187,33 @@ linear-gradient(180deg,#fffefa,#f5efe3);overflow:hidden}
   .product-service-band article{border-right:0;border-bottom:1px solid rgba(255,255,255,.1)}
   .hero-commerce-copy{padding:75px 6vw}
 }
+
+/* ===========================
+   LHEUREUX V6 · MARKET REFERENCE
+   =========================== */
+.reference-notice{
+  display:grid;grid-template-columns:180px 1fr;gap:30px;align-items:start;
+  padding:24px 6vw;background:#171410;color:#fff
+}
+.reference-notice strong{font-size:9px;letter-spacing:.16em;color:var(--gold2)}
+.reference-notice p{margin:0;color:#c8beae;font-size:11px;max-width:900px}
+.reference-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:75px 6vw;background:#fff}
+.reference-card{border:1px solid var(--line);background:#fffdf9}
+.reference-image{height:330px;position:relative;overflow:hidden;background:#f3ecdf}
+.reference-image img{width:100%;height:100%;object-fit:cover;display:block}
+.reference-image span{position:absolute;top:12px;left:12px;padding:7px 9px;background:rgba(255,254,251,.92);font-size:7px;font-weight:800;letter-spacing:.12em;color:var(--gold3)}
+.reference-body{padding:20px}
+.ref-category{font-size:8px;color:var(--gold3);font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.reference-body h2{font-family:Georgia,serif;font-size:27px;line-height:1.1;font-weight:400;margin:7px 0 12px}
+.reference-body>p:not(.ref-category){color:var(--muted);font-size:11px;min-height:52px}
+.reference-price{font-family:Georgia,serif;font-size:22px;margin:8px 0;color:var(--gold3)}
+.reference-price del{color:#978c7d;font-size:14px;margin-right:5px}
+.reference-button{display:inline-flex;margin-top:10px;border:1px solid var(--gold3);color:var(--gold3);background:transparent}
+.reference-button:hover{background:var(--gold3);color:#fff}
+.reference-footer-note{padding:90px 7vw;text-align:center;background:#f5efe3}
+.reference-footer-note p{max-width:680px;margin:0 auto 22px;color:var(--muted)}
+.reference-teaser{display:flex;justify-content:space-between;gap:40px;align-items:end;padding:55px 6vw;background:#f3ecdf;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.reference-teaser h2{font-family:Georgia,serif;font-size:40px;font-weight:400;margin:0}
+.reference-teaser p:not(.eyebrow){color:var(--muted);max-width:700px}
+@media(max-width:950px){.reference-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.reference-grid{grid-template-columns:1fr}.reference-notice{grid-template-columns:1fr}.reference-teaser{display:block}.reference-teaser .button{margin-top:12px}}
