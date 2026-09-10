@@ -1,5 +1,1 @@
-1. Extract this ZIP.
-2. In GitHub, open lheureuxcom.github.io → Add file → Upload files.
-3. Upload every file and folder INSIDE this package, not the ZIP itself.
-4. Commit to the main branch.
-5. Settings → Pages → Deploy from a branch → main → /(root).
+V2: extract this ZIP, upload all files and folders to the root of lheureuxcom.github.io, replace matching V1 files, and commit to main. GitHub Pages will redeploy automatically.

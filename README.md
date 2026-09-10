@@ -1,32 +1,19 @@
-# LHEUREUX — Official Website
+# LHEUREUX — Official Website V2
 
-**Timeless elegance. Made to shine.**
+A more complete multi-page digital maison for Lheureux.
 
-This repository contains the official GitHub Pages website for Lheureux, a modern fine-jewelry brand with a white-and-gold visual identity.
-
-## Brand direction
-
-Lheureux is designed as a refined jewelry maison centered around:
-
-- White and gold
-- Timeless elegance
-- Minimalist luxury
-- Refined proportions
-- Premium presentation
-- Signature collections
-
-## Website sections
-
-- Hero / Maison introduction
-- Collections
-- Maison
-- Design philosophy
-- Journal preview
-- Private enquiries
-- Brand note
+## V2 includes
+- Premium Maison homepage
+- Collections page
+- Craft & design philosophy
+- Journal page
+- About page
+- Private Enquiries page
+- Privacy & Terms pages
+- Responsive navigation
+- Scroll reveal animation
+- Favicons and social metadata
+- White + gold luxury identity
 
 ## Accuracy
-
-The website does not invent product prices, materials, certifications, customer reviews, store locations, or availability. These details can be added when officially confirmed.
-
-© 2026 Lheureux. All rights reserved.
+No product materials, prices, certifications, store locations, testimonials or availability are invented.
