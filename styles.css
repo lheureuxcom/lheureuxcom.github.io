@@ -82,3 +82,65 @@ linear-gradient(180deg,#fffefa,#f5efe3);overflow:hidden}
 .footer-links{grid-template-columns:repeat(4,1fr)}
 @media(max-width:1050px){.product-grid{grid-template-columns:1fr 1fr}.product-catalog{grid-template-columns:1fr 1fr}.gift-grid,.care-grid{grid-template-columns:1fr 1fr}.campaign-grid{grid-template-columns:1fr 1fr}.campaign-large{grid-row:auto}.hero-v3{grid-template-columns:1fr}.hero-sculpture{height:420px}.appointment-layout{grid-template-columns:1fr}.newsletter-band{grid-template-columns:1fr}.newsletter-band small{grid-column:1}}
 @media(max-width:700px){.announcement{display:none}.campaign-grid,.product-grid,.product-catalog,.services-grid,.gift-grid,.care-grid{grid-template-columns:1fr}.campaign-card,.campaign-large{min-height:480px}.services-grid article,.gift-grid article,.care-grid article{border-right:0}.hero-v3 h1{font-size:56px}.hero-sculpture{height:330px}.section-heading-v3{display:block}.section-heading-v3>a{display:inline-block;margin-top:14px}.newsletter-form{grid-template-columns:1fr}.newsletter-form input{border-right:1px solid #cdbf9f;border-bottom:0}.footer-links{grid-template-columns:1fr 1fr}}
+
+/* ===========================
+   LHEUREUX V4 · REAL IMAGERY
+   =========================== */
+.hero-photo-v4{
+  min-height:88vh;display:grid;grid-template-columns:.9fr 1.1fr;gap:4vw;align-items:center;
+  position:relative;padding:7vh 6vw;background:linear-gradient(180deg,#fffefa,#f5efe3);overflow:hidden
+}
+.hero-photo-v4:after{content:"";position:absolute;inset:22px;border:1px solid rgba(184,138,43,.32);pointer-events:none}
+.hero-photo-copy{position:relative;z-index:2;padding-left:2vw}
+.hero-photo-v4 h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(58px,7vw,108px);font-weight:400;line-height:.96;letter-spacing:-.05em;margin:0}
+.hero-photo-v4 h1 em{color:var(--gold3)}
+.hero-photo-media{position:relative;z-index:2;height:min(68vh,720px);overflow:hidden;background:#eee6d7}
+.hero-photo-media img{width:100%;height:100%;object-fit:cover;display:block}
+.photo-badge{position:absolute;right:12px;bottom:12px;padding:7px 9px;background:rgba(255,254,251,.92);font-size:7px;font-weight:800;letter-spacing:.13em;color:var(--gold3)}
+.hero-caption{position:absolute;left:0;right:0;bottom:30px;text-align:center;font-size:7px;letter-spacing:.13em;color:#8c7e69;z-index:3;text-transform:uppercase}
+
+.real-photo-grid{display:grid;grid-template-columns:1.15fr .85fr;grid-template-rows:1fr 1fr;gap:12px;padding:0 6vw 100px}
+.real-photo-card{position:relative;min-height:315px;overflow:hidden;background:#eee6d7}
+.real-photo-card.large{grid-row:1/3;min-height:642px}
+.real-photo-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .7s ease}
+.real-photo-card:hover img{transform:scale(1.025)}
+.real-photo-overlay{position:absolute;left:18px;right:18px;bottom:18px;padding:17px;background:rgba(255,254,251,.90);backdrop-filter:blur(10px);border:1px solid rgba(184,138,43,.18)}
+.real-photo-overlay span{font-size:8px;color:var(--gold3);font-weight:800;letter-spacing:.15em}
+.real-photo-overlay h3{font-family:Georgia,serif;font-size:30px;font-weight:400;margin:6px 0}
+.real-photo-overlay a{font-size:8px;color:var(--gold3);font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+
+.editorial-disclaimer{display:grid;grid-template-columns:160px 1fr;gap:25px;padding:22px 6vw;background:#f2eadc;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.editorial-disclaimer span{font-size:8px;color:var(--gold3);font-weight:800;letter-spacing:.14em}
+.editorial-disclaimer p{margin:0;color:var(--muted);font-size:10px}
+
+.photo-product-grid .product-preview img,.real-catalog article>img{width:100%;height:260px;object-fit:cover;display:block;background:#f4eee2;margin-bottom:15px}
+.real-catalog article>img{height:330px}
+.real-catalog article{overflow:hidden}
+
+.dark-image{min-height:700px;overflow:hidden}
+.dark-image img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(.88) contrast(.98)}
+.dark-story{grid-template-columns:1.08fr .92fr}
+
+.collection-photo-row{display:grid;grid-template-columns:1.08fr .92fr;min-height:660px;background:#fff}
+.collection-photo-row.reverse .collection-photo{order:2}.collection-photo-row.reverse .collection-detail{order:1}
+.collection-photo{min-height:660px;overflow:hidden;background:#f2eadc}
+.collection-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.collection-detail small{display:block;margin-top:20px;color:#918470;font-size:8px;letter-spacing:.08em;text-transform:uppercase}
+
+@media(max-width:1000px){
+  .hero-photo-v4{grid-template-columns:1fr}
+  .hero-photo-media{height:560px}
+  .real-photo-grid{grid-template-columns:1fr 1fr;grid-template-rows:auto}
+  .real-photo-card.large{grid-row:auto;grid-column:1/-1;min-height:560px}
+  .dark-story,.collection-photo-row{grid-template-columns:1fr}
+  .collection-photo-row.reverse .collection-photo,.collection-photo-row.reverse .collection-detail{order:initial}
+  .dark-image,.collection-photo{min-height:520px}
+}
+@media(max-width:650px){
+  .hero-photo-v4{padding-left:5vw;padding-right:5vw}.hero-photo-v4:after{inset:12px}
+  .hero-photo-v4 h1{font-size:52px}.hero-photo-media{height:440px}
+  .real-photo-grid{grid-template-columns:1fr;padding-left:5vw;padding-right:5vw}
+  .real-photo-card.large,.real-photo-card{min-height:430px;grid-column:auto}
+  .editorial-disclaimer{grid-template-columns:1fr}
+  .photo-product-grid .product-preview img,.real-catalog article>img{height:300px}
+}

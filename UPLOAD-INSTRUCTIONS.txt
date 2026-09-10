@@ -1,1 +1,1 @@
-V3: extract this ZIP, upload all files and folders to the root of lheureuxcom.github.io, replace matching V2 files, and commit to main. GitHub Pages will redeploy automatically.
+V4: extract this ZIP, upload all files and folders to the root of lheureuxcom.github.io, replace matching V3 files, then commit to main. The real editorial photos are loaded from Unsplash when the website is online.

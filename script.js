@@ -24,3 +24,7 @@ if ('IntersectionObserver' in window) {
 } else {
   items.forEach(i => i.classList.add('visible'));
 }
+
+document.querySelectorAll('img').forEach(img => {
+  img.addEventListener('error', () => img.classList.add('image-load-error'));
+});
