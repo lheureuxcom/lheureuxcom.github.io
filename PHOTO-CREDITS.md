@@ -1,26 +1,29 @@
-# Lheureux V4 — Editorial Photo Credits
+# Lheureux V7 — Editorial Photo Credits
 
-Real photography used in this version is sourced from Unsplash.
+The website uses real editorial photography from Unsplash pages marked free to use under the Unsplash License.
 
-## Selected images
+- Natali Hordiiuk — gold rings on stone
+  https://unsplash.com/photos/a-couple-of-gold-rings-sitting-on-top-of-a-rock-kH3QnTTyuXg
 
-1. Gold ring — Sabrianna  
-   Source: https://unsplash.com/photos/gold-ring-on-white-surface-NhrcL_C0sFA
+- Patrick Nguyen — gold necklace worn on model
+  https://unsplash.com/photos/woman-wearing-a-gold-necklace-with-interlocking-rings-eQsh5E5ZTzc
 
-2. Delicate gold necklaces — Diego Castañeda  
-   Source: https://unsplash.com/photos/three-delicate-gold-necklaces-with-charms-on-white-background-w2PJ7udIAp8
+- Oscar Ramirez — gold bracelet and ring on model
+  https://unsplash.com/photos/a-woman-wearing-a-gold-bracelet-and-a-gold-ring-ut8D3fHDJKE
 
-3. Gold bracelet — Zeralton Gallery  
-   Source: https://unsplash.com/photos/a-gold-bracelet-adorned-on-a-wrist-mF6CWKalodk
+- JESUS ECA — gold hoop earrings
+  https://unsplash.com/photos/a-pair-of-gold-hoop-earrings-sitting-on-top-of-a-table-NgJfAcaKfc0
 
-4. Gold hoop earrings — Ian Talmacs  
-   Source: https://unsplash.com/photos/a-pair-of-gold-hoop-earrings-on-a-white-background-ZP7HXfjRVcY
+- Andrey Ilkevich — gold necklace with circular pendant
+  https://unsplash.com/photos/a-delicate-gold-necklace-with-a-circular-pendant-L-rNkUK2SZU
 
-5. White box with gold jewelry — Natali Hordiiuk  
-   Source: https://unsplash.com/photos/a-white-box-with-gold-jewelry-on-it-MFmHV695pd4
+- Amina Atar — gold chain bracelet
+  https://unsplash.com/photos/a-gold-chain-bracelet-laying-on-top-of-a-white-blanket-F6qEiDArzfk
 
-The source pages selected for this build state that these photographs are free to use under the Unsplash License.
+- Oscar Ramirez — gold earrings on model
+  https://unsplash.com/photos/a-woman-wearing-a-pair-of-gold-earrings-R3yYBi8bR6I
 
-## Brand transparency
+- Oscar Ramirez — gold necklace with flower design
+  https://unsplash.com/photos/a-gold-necklace-with-a-flower-design-on-it-rl7doKRxZuU
 
-The photographs are used as editorial reference imagery only. They are not presented as Lheureux-owned product photography or as confirmed Lheureux inventory.
+These images are editorial references. They are not Blue Nile product photographs and are not presented as final Lheureux product photography.

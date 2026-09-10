@@ -1,44 +1,81 @@
-# Lheureux V6 — Market Reference Sources
+# Lheureux V7 — Blue Nile Market References
 
-These products are shown in the public `reference-edit.html` page as external market references only.
-They are not represented as Lheureux inventory.
+Reviewed September 2026. Prices may change.
 
-Reviewed: September 2026.
-
-## Classic Wedding Ring in 14K Yellow Gold (2mm)
+## 1. Classic Wedding Ring in 14K Yellow Gold (2mm)
 - Category: Ring
-- Displayed reference price: $280
-- Specifications used: 14K yellow gold · 2.00 mm width
-- Original source: https://www.bluenile.com/wedding-rings/classic-wedding-ring-in-14k-yellow-gold-2mm-item-194557
+- Reference price: $280
+- Specifications: 14K yellow gold · 2 mm width
+- Source: https://www.bluenile.com/jewelry/gold-jewelry/gold-rings
 
-## Petite Micropavé Diamond Ring in 14K White Gold (1/10 ct. tw.)
+## 2. Classic Wedding Ring in 14K Yellow Gold (4mm)
 - Category: Ring
-- Displayed reference price: $770
-- Specifications used: 14K white gold · natural round diamonds · 1/10 ct. tw. · H-I / SI2
-- Original source: https://www.bluenile.com/wedding-rings/petite-micropave-diamond-ring-in-14k-white-gold-1-10-ct-tw-item-195406
+- Reference price: $675
+- Specifications: 14K yellow gold · 4 mm width
+- Source: https://www.bluenile.com/wedding-rings/classic-wedding-ring-in-14k-yellow-gold-4mm-item-195949
 
-## Four Prong Round Brilliant Lab-Grown Diamond Stud Earrings
+## 3. Dot Dash Diamond Ring in 14K Yellow Gold (1/4 ct. tw.)
+- Category: Ring
+- Reference price: $852
+- Previous/displayed list price: $1,420
+- Specifications: 14K yellow gold · 1/4 ct. tw. diamonds
+- Source: https://www.bluenile.com/jewelry/rings/best-selling-rings
+
+## 4. Small Hoop Earrings in 14K Yellow Gold (2 × 15 mm)
 - Category: Earrings
-- Displayed reference price: $591
-- Specifications used: 14K white gold · 1 ct. tw. · F-G / VS2-SI1 · lab-grown diamonds
-- Original source: https://www.bluenile.com/jewelry/earrings/four-prong-round-brilliant-lab-grown-diamond-stud-earrings-in-14k-white-gold-1-ct-tw-f-g-vs2-si1-item-150577
+- Reference price: $255
+- Specifications: 14K yellow gold · 2 × 15 mm
+- Source: https://www.bluenile.com/jewelry/gold-jewelry/gold-earrings
 
-## Small Hoop Earrings in 14K Yellow Gold (2 × 15 mm)
+## 5. Four Prong Round Brilliant Lab-Grown Diamond Stud Earrings
 - Category: Earrings
-- Displayed reference price: $255
-- Specifications used: 14K yellow gold · hinged snap back
-- Original source: https://www.bluenile.com/jewelry/earrings/small-hoop-earrings-in-14k-yellow-gold-2-x-15-mm-item-202448
+- Reference price: $591
+- Previous/displayed list price: $910
+- Specifications: 14K white gold · 1 ct. tw. · F-G · VS2-SI1 · lab-grown diamonds
+- Source: https://www.bluenile.com/jewelry/earrings
 
-## 7.5" Paperclip Bracelet in 14K Italian Yellow Gold (4 mm)
+## 6. Freshwater Cultured Pearl Stud Earrings in 14K Yellow Gold (6mm)
+- Category: Earrings
+- Reference price: $240
+- Specifications: 14K yellow gold · 6 mm freshwater cultured pearls
+- Source: https://www.bluenile.com/jewelry/earrings
+
+## 7. 7.5" Paperclip Bracelet in 14K Italian Yellow Gold (4 mm)
 - Category: Bracelet
-- Displayed reference price: $1,135
-- Specifications used: 14K Italian yellow gold · 7.5 in · lobster claw clasp
-- Original source: https://www.bluenile.com/jewelry/bracelets/75-paperclip-bracelet-in-14k-italian-yellow-gold-4-mm-item-201151
+- Reference price: $1,135
+- Specifications: 14K Italian yellow gold · 7.5 in · 4 mm
+- Source: https://www.bluenile.com/jewelry/gold-jewelry/gold-bracelets
 
-## Ruby and Diamond Drop Pendant in 14K White Gold (4mm)
-- Category: Pendant
-- Displayed reference price: $950
-- Specifications used: 14K white gold · 4 mm ruby · 18 in cable chain · 1/10 ct. tw. natural diamonds
-- Original source: https://www.bluenile.com/jewelry/necklaces/ruby-and-diamond-drop-pendant-in-14k-white-gold-4mm-item-194807
+## 8. Mini Half Tennis Bracelet with 0.50 CTW Lab-Grown Diamonds
+- Category: Bracelet
+- Reference price: $1,320
+- Specifications: 14K yellow gold · 0.50 CTW round lab-grown diamonds
+- Source: https://www.bluenile.com/jewelry/bracelets
 
-Blue Nile product photography is not copied into this build. The site uses separately licensed editorial imagery for visual presentation.
+## 9. Open Circle Bracelet in 14K Yellow Gold
+- Category: Bracelet
+- Reference price: $214
+- Previous/displayed list price: $390
+- Specifications: 14K yellow gold · open-circle motif
+- Source: https://www.bluenile.com/jewelry/gold-jewelry/gold-bracelets
+
+## 10. 18" Medium Paperclip Necklace in 14K Italian Yellow Gold (4 mm)
+- Category: Necklace
+- Reference price: $2,435
+- Specifications: 14K Italian yellow gold · 18 in · 4 mm
+- Source: https://www.bluenile.com/jewelry/gold-jewelry/gold-necklaces
+
+## 11. Bezel Lab-Grown Diamond Pendant in 14K Yellow Gold (1 ct. tw.)
+- Category: Necklace
+- Reference price: $916
+- Previous/displayed list price: $1,410
+- Specifications: 14K yellow gold · 1 ct. tw. · F-G · VS2-SI1 · lab-grown diamond
+- Source: https://www.bluenile.com/jewelry/necklaces
+
+## 12. Four Prong Basket Solitaire Lab-Grown Diamond Pendant
+- Category: Necklace
+- Reference price: $1,190
+- Specifications: 14K white gold · 1 ct. tw. · F-G · VS2-SI1 · lab-grown diamond
+- Source: https://www.bluenile.com/jewelry/necklaces
+
+Blue Nile photography and long-form marketing copy are not included in this build.

@@ -98,3 +98,14 @@ if (checkout) checkout.addEventListener('click', () => {
 });
 
 renderBag();
+
+document.querySelectorAll('[data-market-filter]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('[data-market-filter]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const f = btn.dataset.marketFilter;
+    document.querySelectorAll('[data-market-category]').forEach(card => {
+      card.style.display = (f === 'all' || card.dataset.marketCategory === f) ? '' : 'none';
+    });
+  });
+});

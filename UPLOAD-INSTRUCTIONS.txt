@@ -1,1 +1,1 @@
-V6: extract this ZIP, upload every file and folder to the root of lheureuxcom.github.io, replace matching V5 files, and commit to main. A new Reference Edit page will appear in the navigation.
+V7: extract this ZIP, upload every file and folder to the root of lheureuxcom.github.io, replace matching V6 files, and commit to main. New pages: market-edit.html and materials.html.

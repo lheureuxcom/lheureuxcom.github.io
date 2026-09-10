@@ -34,3 +34,13 @@ Live card payment processing is not connected yet.
 - Blue Nile items are clearly identified as external references, not Lheureux inventory.
 - Blue Nile product photography and marketing copy are not copied.
 - Existing Lheureux Shop and three Lheureux-priced preview items remain separate.
+
+## V7 realism upgrade
+- 12 current Blue Nile market references across rings, earrings, bracelets and necklaces.
+- Real factual reference prices and specification language.
+- Separate licensed Unsplash photography rather than copied Blue Nile product photography.
+- Rewritten Lheureux editorial notes instead of copied marketing descriptions.
+- New Materials & Stones page.
+- New market-category filters.
+- New "From Reference to Lheureux" product-strategy section.
+- Existing Lheureux shop, shopping bag, favorites, client phone and three Lheureux preview prices remain intact.
