@@ -1,19 +1,31 @@
-# LHEUREUX — Official Website V2
+# LHEUREUX — Official Website V3
 
-A more complete multi-page digital maison for Lheureux.
+A premium multi-page digital maison for Lheureux.
 
-## V2 includes
-- Premium Maison homepage
-- Collections page
-- Craft & design philosophy
-- Journal page
-- About page
-- Private Enquiries page
-- Privacy & Terms pages
-- Responsive navigation
-- Scroll reveal animation
-- Favicons and social metadata
-- White + gold luxury identity
+## V3 adds
+- New Arrivals page
+- Private Appointments page
+- Gift Guide
+- Jewelry Care
+- Shipping & Returns page
+- More editorial homepage
+- Luxury campaign panels
+- Product-preview catalogue
+- Private client service previews
+- Newsletter visual preview
+- Expanded footer and navigation
+- Responsive premium layout
+
+## Existing V2 sections retained
+- Maison
+- Collections
+- Craft
+- Journal
+- About
+- Private Enquiries
+- Privacy
+- Terms
+- Favicons and brand assets
 
 ## Accuracy
-No product materials, prices, certifications, store locations, testimonials or availability are invented.
+No prices, materials, certifications, store locations, testimonials or product availability are invented.
